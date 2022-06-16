@@ -40,7 +40,7 @@ contract Fibbonaci {
     return series;
     }
 
-
+}
 
 
 
@@ -48,8 +48,3 @@ contract Fibbonaci {
 //       n        5         10         20        30        40        50         60       70        80          90        100
 //   fib1 gas    26508      32434     44287    56141      67997     79855     91714     103575   115437       127301     hangup
 //   fib2 gas    22369      22381
-
-
-
-
-}
